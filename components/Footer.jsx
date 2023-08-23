@@ -38,7 +38,7 @@ export default () => {
           <div className="mt-6">
             <p className="text-gray-700 font-semibold">Get the app</p>
             <div className="flex items-center gap-3 mt-3 sm:block">
-              <a href="javascript:void()">Logo1</a>
+              <a href="javascript:void() ">Logo1</a>
               <a href="javascript:void()">Logo2</a>
             </div>
           </div>

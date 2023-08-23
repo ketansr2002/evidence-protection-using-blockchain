@@ -31,12 +31,7 @@ export default () => {
       <div className="gap-x-14 items-center max-w-screen-xl mx-auto px-4 md:flex md:px-8">
         <div className="flex items-center justify-between py-5 md:block">
           <a href="#">
-            <img
-              src="https://www.floatui.com/logo.svg"
-              width={120}
-              height={50}
-              alt="float ui logo"
-            />
+            <img src="/logo.png" width={120} height={50} alt="float ui logo" />
           </a>
           <div className="md:hidden">
             <button
